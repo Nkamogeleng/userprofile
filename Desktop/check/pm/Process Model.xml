@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="CD2472E2-C7DC-C020-C0A8-7610E4AC3189">
+<createdBy>Matlogin</createdBy>
+<createdTime>2021-06-02 09:27:43 UTC</createdTime>
+<ownerDesignName>check</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>
