@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="4FA96879-B89B-E5AF-7F0B-0C7AF7E82328" mainViewID="000F686F-9CFB-26B1-CBD1-1957F072A66C">
-<createdBy>Matlogin</createdBy>
-<createdTime>2021-06-02 12:42:22 UTC</createdTime>
-<ownerDesignName>check</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
-</relationalModel>

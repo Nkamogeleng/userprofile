@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="DE064137-B1DC-40F5-3919-2BF095B5C77D" mainViewID="2C963DCE-1402-FCB9-F430-B8E92945B8A9">
-<createdBy>Matlogin</createdBy>
-<createdTime>2021-06-02 09:27:42 UTC</createdTime>
-<ownerDesignName>check</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>

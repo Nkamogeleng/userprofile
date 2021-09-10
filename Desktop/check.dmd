@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="check" id="EB077249-7E09-5165-3F63-97DA3538280C" version="3.5">
-<createdBy>Matlogin</createdBy>
-<createdTime>2021-06-02 09:27:42 UTC</createdTime>
-<ownerDesignName>check</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>EB077249-7E09-5165-3F63-97DA3538280C</designId>
-</OSDM_Design>
