@@ -1,0 +1,89 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: 20px auto;
+    color: white;
+    font-family: sans-serif;
+  }
+.Nav{
+    position: relative;
+    width: 100%;
+    background-color: #0c023e;    
+    padding-bottom: 20px;
+}  
+.Nav p{
+    color: white;
+    font-weight: 300;
+}
+.Nav a {
+    color: rgb(94, 141, 243);
+    font-weight: 200;
+    text-decoration: none;
+}
+.search {
+    width:"20rem";
+    background:"#F2F1F9";
+    border:"none"; 
+    padding:"0.5rem"
+}
+.support_content {
+    width: 100%;
+    margin-left: 50px;
+    display: grid;
+    gap: 5% 5%;
+    align-content: space-between;
+    grid-template-columns:[first] 40% [line2] 40%;
+    grid-template-rows: [row1-start] 40% [row1-end] 40%;
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+.content {
+    width: 1000px;
+    margin-left: 50px;
+    display: flex;
+    gap: 5% 5%;
+    align-content: space-around;
+    grid-template-columns:[first] 20% [line2] 20%;
+    grid-template-rows: [row1-start] 20% [row1-end] 20%;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: small;
+    
+}
+.x1 {
+
+    width: 20%;
+}
+.x2 {
+
+    width: 20%;
+}
+.x3 {
+
+    width: 20%;
+}
+
+
+
+
+.shooting {
+
+    width: 50%;
+}
+.Enable {
+
+    width: 50%;
+    margin-right: 10%;
+}
+.Contact {
+
+    width: 50%;
+}
+.email {
+
+    width: 50%;
+}
